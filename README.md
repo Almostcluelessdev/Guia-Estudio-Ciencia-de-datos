@@ -70,19 +70,8 @@ Guia-Estudio-Ciencia-de-datos/
 ## 🧪 Ejercicios
 
 - Problemas tipo examen
-- Resoluciones paso a paso
 
 ---
-
-## 📚 Recursos
-
-- Blitzstein - Probability
-- Gilbert Strang - Linear Algebra
-- ESL
-- Bishop PRML
-
----
-
 ## 📅 Estrategia
 
 1. Fundamentos
@@ -92,6 +81,6 @@ Guia-Estudio-Ciencia-de-datos/
 
 ---
 
-## ⚠️ Regla
+## ⚠️ Creditos
+Para los autores originales del material, las referencias a sus respectivas fuentes en breve.
 
-Nunca dejar de estudiar matemáticas.
